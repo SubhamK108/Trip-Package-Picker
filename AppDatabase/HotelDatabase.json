@@ -1,0 +1,46 @@
+[
+    {
+    "Name" : "bangalore",
+    "1" : ["Minerva Residency", "Hotel Chalukya Bangalore", "Golden Residency", "Ginger Bangalore", "Hotel Surya Residency"],
+    "2" : ["Bhagini Icon Hotel Domlur", "Pampa Hotel", "The Zuri Whitefield", "Hotel Luciya International", "Hotel Chalukya"],
+    "3" : ["12th Avenue Hotel", "Aathithya Restaurant", "Ballal Residency", "Cofident Cascade", "Cross Roads Inn", "Confident Propus"],
+    "4" : ["Nandhana Grand", "Pai Viceroy", "Ramada Bangalore", "Shakthi Hill Resorts", "Safina Hotel", "Silver Oak Resort"],
+    "5" : ["The Richmond Hotel", "The Infantry Hotel", "Eagleton The Golf Resort", "Golden Palms Hotel And Spa", "Fortune Select Trinity"]
+    },
+
+    {
+    "Name" : "mumbai",
+    "1" : ["Fariyas Hotel", "Hotel Marine Plaza", "Bawa International", "Hotel Residency Andheri", "Astoria Hotel", "Comfort Inn Heritage"],
+    "2" : ["Celebrations Navi Mumbai", "Chateau Windsor Hotel", "Sun N Sand Hotel Mumbai", "Novotel Mumbai Juhu Beach", "Z Luxury Residences"],
+    "3" : ["Palms Hotel", "Ramee Guestline Hotel Juhu", "The Leela Mumbai", "Hotel, MumbaiBoutique Hotel Bawa Suites", "Sahara Star", "Hotel City Palace"],
+    "4" : ["Arma Executive", "Waterstones Hotel", "The Oberoi Mumbai", "Grand Hyatt Mumbai Hotel", "Comfort Inn Heritage", "Peninsula Grand Hotel"],
+    "5" : ["The Regale by Tunga", "Hotel Galaxy Residency", "Hotel Metro Palace", "Atlantic Mumbai", "Peninsula Red Pine", "Park View", "Hotel Royal Castle"]
+    },
+
+    {
+    "Name" : "delhi",
+    "1" : ["Maidens Hotel", "The Manor", "Sheraton New Delhi Hotel", "Hotel Madonna", "Hotel BB Palace", "Hotel Diplomat", "Hotel Sunstar Residency"],
+    "2" : ["Avalon Courtyard", "Hotel Rahul Palace", "Mosaic Hotels", "Clark Heights", "Hotel Waves", "Hotel Gautam Deluxe", "Metro City"],
+    "3" : ["Hotel Florence", "Kafila Hotel", "Hotel Alka Classic", "Hotel Indraprastha", "Shanti Home", "Hotel B Continental", "Hotel Le Seasons"],
+    "4" : ["Treebo Tryst Amber", "Hotel Maurya Heritage", "Dee Marks Hotel & Resorts", "Lemon Tree Hotel", "Hotel Regent Continental", "Shangri-La - Eros Hotel"],
+    "5" : ["Park Inn by Radisson New Delhi", "The Grand New Delhi", "Le Meridien New Delhi", "The LaLiT New Delhi", "Taj Palace, New Delhi", "New DelhiHyatt Regency Delhi"]
+    },
+
+    {
+    "Name" : "rajasthan",
+    "1" : ["ITC Rajputana", "Trident, Jaipur", "Rambagh Palace", "Cambay Grand", "Shahpura House", "Hotel Amer View", "Hotel Maharani Plaza"],
+    "2" : ["Hotel Mansingh", "Hotel Sarang Palace", "Park Regis Jaipur", "Park Prime Jaipur", "Shiv Vilas Resorts", "Hotel Sajjan Niwas", "Barwara Kothi"],
+    "3" : ["Bani Park Hotel", "Cambay Resort Jamdoli", "Hotel Kanchandeep", "Hotel Jaipur Palace", "Divine the Boutique Hotel", "Hotel Jaipur Greens"],
+    "4" : ["Hotel Kalyan", "Mango Ananta Express", "Pratap bhawan Home stay", "Treebo Trend Natraj Jaipur", "Sunrise Health Resort", "Om Niwas Suite Hotel"],
+    "5" : ["WelcomHeritage Sirsi Haveli", "Fortune Select Metropolitan", "Hotel Ruby", "Royal Orchid Central Jaipur", "Peppermint Hotel", "Hotel H.R. Palace"]
+    },
+
+    {
+    "Name" : "hyderabad",
+    "1" : ["Taj Banjara", "Taj Krishna", "Amrutha Castle", "Hotel Taj Tristar", "Amogh Boutique", "Royalton Hyderabad", "Hotel Minerva Grand"],
+    "2" : ["The Central Court Hotel", "Guest Inn Suites Castle", "Daspalla Hyderabad", "Ashoka Hitec City", "Executel Greenlands", "Nkms Grand"],
+    "3" : ["SG Comforts", "Ohris Baseraa Inn", "Walnut Budget Hotel", "dAt Home Suites", "Hotel VJR Residency", "Hotel Nakshatra Inn", "Jubilee Ridge"],
+    "4" : ["Executel Begumpet", "Luminous One Continent", "Green Leaves Hotel", "Serenity Inn La Vista", "Hotel Shree Venkateshwara", "United-21, Hyderabad"],
+    "5" : ["Hotel TARA International", "Oakwood Residence", "The Palazzo", "Marigold by Greenpark", "Mandava Suites", "Celestia Suites", "Lake View Homes"]
+    }
+]

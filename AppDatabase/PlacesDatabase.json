@@ -1,0 +1,46 @@
+[
+    {
+    "Name" : "bangalore",
+    "1" : ["Bangalore Palace", "National Gallery of Modern Art", "Krishna Rajendra (KR) Market"],
+    "2" : ["Bangalore Palace", "Krishna Rajendra (KR) Market", "Lalbagh Botanical Garden", "Cubbon Park", "Vidhana Soudha"],
+    "3" : ["National Gallery of Modern Art", "Krishna Rajendra (KR) Market", "Lalbagh Botanical Garden", "Cubbon Park", "Vidhana Soudha", "Attara Kacheri (High Court) and Surroundings"],
+    "4" : ["Krishna Rajendra (KR) Market", "Lalbagh Botanical Garden", "Cubbon Park", "Vidhana Soudha", "Attara Kacheri", "Attara Kacheri (High Court) and Surroundings"],
+    "5" : ["Cubbon Park", "Bangalore Palace", "National Gallery of Modern Art", "Krishna Rajendra (KR) Market", "Vidhana Soudha", "Attara Kacheri (High Court)", "Surroundings and Ulsoor Lake", "Vidhana Soudha", "Spiritual and Religious Places"]
+    },
+
+    {
+    "Name" : "mumbai",
+    "1" : ["Gateway of India, Mumbai", "Sanjay Gandhi National Park", "Red Carpet Wax Museum", "Haji Ali Dargah"],
+    "2" : ["Gateway of India, Mumbai", "Sanjay Gandhi National Park", "Red Carpet Wax Museum", "Haji Ali Dargah", "Elephanta Caves", "Siddhivinayak Temple"],
+    "3" : ["Gateway of India, Mumbai", "Sanjay Gandhi National Park", "Red Carpet Wax Museum", "Haji Ali Dargah", "Elephanta Caves", "Siddhivinayak Temple", "Chhatrapathi Shivaji Terminus (CST)"],
+    "4" : ["Gateway of India, Mumbai", "Sanjay Gandhi National Park", "Red Carpet Wax Museum", "Haji Ali Dargah", "Elephanta Caves", "Siddhivinayak Temple", "Chhatrapathi Shivaji Terminus (CST)", "Nehru Center"],
+    "5" : ["Gateway of India, Mumbai", "Sanjay Gandhi National Park", "Red Carpet Wax Museum", "Haji Ali Dargah", "Elephanta Caves", "Siddhivinayak Temple", "Chhatrapathi Shivaji Terminus (CST)", "Nehru Center", "Taraporewala Aquarium"]
+    },
+
+    {
+    "Name" : "delhi",
+    "1" : ["Red Fort", "India Gate", "Rashtrapati Bhawan", "Qutub Minar"],
+    "2" : ["Red Fort", "India Gate", "Rashtrapati Bhawan", "Qutub Minar", "Jantar Mantar", "Humayuns Tomb"],
+    "3" : ["Red Fort", "India Gate", "Rashtrapati Bhawan", "Qutub Minar", "Jantar Mantar", "Humayuns Tomb", "Akshardham Temple"],
+    "4" : ["Red Fort", "India Gate", "Rashtrapati Bhawan", "Qutub Minar", "Jantar Mantar", "Humayuns Tomb", "Akshardham Temple", "Chattarpur Temple"],
+    "5" : ["Red Fort", "India Gate", "Rashtrapati Bhawan", "Qutub Minar", "Jantar Mantar", "Humayuns Tomb", "Akshardham Temple", "Chattarpur Temple", "ISKCON Temple and Lotus Temple"]
+    },
+
+    {
+    "Name" : "rajasthan",
+    "1" : ["Jaisalmer", "Jaisalmer Fort", "Jaipur", "The City Palace"],
+    "2" : ["Jaisalmer", "Jaisalmer Fort", "Jaipur", "The City Palace", "Jodhpur"],
+    "3" : ["Jaisalmer", "Jaisalmer Fort", "Jaipur", "The City Palace", "Jodhpur", "Mehrangarh Fort"],
+    "4" : ["Jaisalmer", "Jaisalmer Fort", "Jaipur", "The City Palace", "Jodhpur", "Mehrangarh Fort", "Osian"],
+    "5" : ["Jaisalmer", "Jaisalmer Fort", "Jaipur", "The City Palace", "Jodhpur", "Mehrangarh Fort", "Osian", "Sawai Madhopur", "Ranthambore Fort"]
+    },
+
+    {
+    "Name" : "hyderabad",
+    "1" : ["Charminar", "Golkonda Fort", "Qutb Shahi Tombs", "Hussain Sagar Lake"],
+    "2" : ["Charminar", "Golkonda Fort", "Qutb Shahi Tombs", "Hussain Sagar Lake", "Ramoji Film City", "Nehru Zoological Park"],
+    "3" : ["Charminar", "Golkonda Fort", "Qutb Shahi Tombs", "Hussain Sagar Lake", "Ramoji Film City", "Nehru Zoological Park", "Snow World"],
+    "4" : ["Charminar", "Golkonda Fort", "Qutb Shahi Tombs", "Hussain Sagar Lake", "Ramoji Film City", "Nehru Zoological Park", "Snow World", "Lumbini Park"],
+    "5" : ["Charminar", "Golkonda Fort", "Qutb Shahi Tombs", "Hussain Sagar Lake", "Ramoji Film City", "Nehru Zoological Park", "Snow World", "Lumbini Park", "Birla Mandir", "NTR Gardens"]
+    }
+]
