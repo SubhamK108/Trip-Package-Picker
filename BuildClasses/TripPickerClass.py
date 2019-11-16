@@ -9,7 +9,7 @@ class TripPicker:
         self.Budget = budget
     
     def GetHotel(self):
-        raw_data = open(r'../AppDatabase/HotelDatabase.json', 'r')
+        raw_data = open(r'AppDatabase/HotelDatabase.json', 'r')
         data = json.load(raw_data)
         for obj in data:
             if self.Destination.lower() == obj['Name']:
@@ -25,7 +25,7 @@ class TripPicker:
         return SelectedHotel
 
     def GetPrice(self):
-        raw_data = open(r'../AppDatabase/PriceDatabase.json', 'r')
+        raw_data = open(r'AppDatabase/PriceDatabase.json', 'r')
         data = json.load(raw_data)
         for obj in data:
             if self.Destination.lower() == obj['Name']:
@@ -35,7 +35,7 @@ class TripPicker:
         return SelectedPrice
     
     def GetPlaces(self):
-        raw_data = open(r'../AppDatabase/PlacesDatabase.json', 'r')
+        raw_data = open(r'AppDatabase/PlacesDatabase.json', 'r')
         data = json.load(raw_data)
         for obj in data:
             if self.Destination.lower() == obj['Name']:
